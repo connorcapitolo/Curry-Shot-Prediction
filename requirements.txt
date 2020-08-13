@@ -1,24 +1,29 @@
 appnope==0.1.0
-argon2-cffi==20.1.0
+argon2-cffi @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi_1596629858645/work
 attrs==19.3.0
+autopep8==1.5.4
 backcall==0.2.0
-bleach==3.1.5
-catboost==0.23.2
+backports.functools-lru-cache==1.6.1
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
+brotlipy==0.7.0
+catboost==0.24
 certifi==2020.6.20
-cffi==1.14.1
+cffi @ file:///opt/concourse/worker/volumes/live/7232682c-ed09-452c-5a23-d23e8506f71f/volume/cffi_1596809958572/work
 chardet==3.0.4
 cloudpickle==1.5.0
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1595348779745/work
 cycler==0.10.0
 DateTime==4.3
 decorator==4.4.2
 defusedxml==0.6.0
 dython==0.6.0
 entrypoints==0.3
+flake8==3.8.3
 future==0.18.2
 graphviz==0.14.1
 hyperopt==0.2.4
-idna==2.10
-install==1.3.3
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1593211382425/work
 ipykernel==5.3.4
 ipython==7.17.0
 ipython-genutils==0.2.0
@@ -26,25 +31,24 @@ ipywidgets==7.5.1
 jedi==0.17.2
 Jinja2==2.11.2
 joblib==0.16.0
+json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1591810480056/work
 jsonschema==3.2.0
 jupyter-client==6.1.6
-jupyter-contrib-core==0.3.3
 jupyter-core==4.6.3
-jupyter-highlight-selected-word==0.2.0
-jupyter-latex-envs==1.4.6
-jupyter-nbextensions-configurator==0.4.1
+jupyterlab==2.2.4
+jupyterlab-code-formatter==1.3.6
+jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1593951277307/work
 kiwisolver==1.2.0
-lxml==4.5.2
 MarkupSafe==1.1.1
 matplotlib==3.3.0
+mccabe==0.6.1
 mistune==0.8.4
-nba-api==1.1.8
 nbconvert==5.6.1
-nbformat==5.0.7
+nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
 networkx==2.4
-notebook==6.1.0
+notebook @ file:///Users/runner/miniforge3/conda-bld/notebook_1596502480555/work
 numpy==1.19.1
-packaging==20.4
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
 pandas==1.1.0
 pandocfilters==1.4.2
 parso==0.7.1
@@ -52,34 +56,39 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.2.0
 plotly==4.9.0
-prometheus-client==0.8.0
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
-pycparser==2.20
+pycodestyle==2.6.0
+pycodestyle-magic==0.5
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyflakes==2.2.0
 Pygments==2.6.1
+pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
+PySocks==1.7.1
 python-dateutil==2.8.1
 pytz==2020.1
-PyYAML==5.3.1
 pyzmq==19.0.2
-requests==2.24.0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
 retrying==1.3.3
-scikit-learn==0.23.1
+scikit-learn==0.23.2
 scipy==1.5.2
 seaborn==0.10.1
 Send2Trash==1.5.0
 shap==0.35.0
 six==1.15.0
-sklearn==0.0
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.1.0
+toml==0.10.1
 tornado==6.0.4
-tqdm==4.48.1
+tqdm==4.48.2
 traitlets==4.3.3
-urllib3==1.25.10
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1595434816409/work
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+zipp==3.1.0
 zope.interface==5.1.0
