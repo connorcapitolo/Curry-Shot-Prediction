@@ -7,7 +7,7 @@ backports.functools-lru-cache==1.6.1
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
 brotlipy==0.7.0
 catboost==0.24
-certifi==2020.6.20
+certifi==2022.12.7
 cffi @ file:///opt/concourse/worker/volumes/live/7232682c-ed09-452c-5a23-d23e8506f71f/volume/cffi_1596809958572/work
 chardet==3.0.4
 cloudpickle==1.5.0
