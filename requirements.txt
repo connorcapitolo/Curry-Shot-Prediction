@@ -47,7 +47,7 @@ nbconvert==5.6.1
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
 networkx==2.4
 notebook @ file:///Users/runner/miniforge3/conda-bld/notebook_1596502480555/work
-numpy==1.19.1
+numpy==1.22.0
 packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
 pandas==1.1.0
 pandocfilters==1.4.2
