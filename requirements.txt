@@ -43,7 +43,7 @@ MarkupSafe==1.1.1
 matplotlib==3.3.0
 mccabe==0.6.1
 mistune==0.8.4
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
 networkx==2.4
 notebook @ file:///Users/runner/miniforge3/conda-bld/notebook_1596502480555/work
